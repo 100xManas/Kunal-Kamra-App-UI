@@ -1,12 +1,30 @@
-# React + Vite
+# 🎤 Kunal Kamra App - UI Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple UI clone inspired by **Kunal Kamra**'s app. 
+It replicates a real app's front-end design and feel, built using modern web technologies.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js
+- Tailwind CSS
+- Framer Motion (for animations)
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [Check it out here!](https://kunal-kamra-app-ui.vercel.app/)
+
+## 📸 Screenshots
+
+![Screenshot (728)](https://github.com/user-attachments/assets/aef741b8-2a20-4b9d-88af-6dbe6c155608)
+
+---
+
+![Screenshot (729)](https://github.com/user-attachments/assets/a5ceadef-7b85-476b-826a-17bfbbe3a98d)
+
+---
+
+![Screenshot (730)](https://github.com/user-attachments/assets/6ef81da1-d278-4daf-9bd8-d6deaee22278)
+
+---
+
+### Thank You!
